@@ -1,0 +1,44 @@
+name: Bot-Test
+on: [push]
+jobs:
+  build:
+    runs-on: ${{ matrix.os }}
+    strategy:
+      matrix:
+        os: [ubuntu-latest]
+    steps:
+      - name: Context
+        env:
+          GITHUB_CONTEXT: ${{ toJson(github) }}
+        run: echo "$GITHUB_CONTEXT"
+        
+      - name: GIT Initialization
+        uses: actions/checkout@v1
+        with:
+          fetch-depth: 1
+      
+      - name: Setting Python 3.6
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.6'
+          architecture: 'x64'
+         
+      - name: Dependencies
+        run: |
+          pip install --user python-dotenv requests googledrivedownloader pytube pyyaml mega.py telethon cryptg hachoir aiohttp cchardet aiodns
+       
+      - name: Setup FFMPEG For Video Tasks
+        uses: FedericoCarboni/setup-ffmpeg@v1
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+      
+      - name: Decode Test Files
+        env:
+          G_API: ${{ secrets.G_API }}
+        run: python deco.py
+        
+      - name: Start Test
+        run: python main.py
+        
+      - name: Upload results
+        run: python end.py
