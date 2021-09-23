@@ -1,4 +1,4 @@
-- server : 22
-- link : https://t.me/ThatTime_IGotReincarnated_low_mb/69
-  name : d10.mkv
+- server : 23
+- link : https://t.me/ThatTime_IGotReincarnated_low_mb/70
+  name : d11.mkv
   cli : -vf scale=-2:360 -c:v libx265 -c:a aac -preset veryslow
