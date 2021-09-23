@@ -1,4 +1,4 @@
-- server : 2
-- link : https://t.me/unacademyneettoppers/11668
-  name : 1.mkv
-  cli : -vf scale=-2:360 -c:v libx265 -c:a aac -preset veryslow
+- server : 25
+- link : https://drive.google.com/file/d/1DV0k0WkQNrwUrPRuU_WdsalurZWNCo1I/view?usp=drivesdk
+  name : 0.mkv
+  cli : -vf scale=-2:360 -c:v libx264 -c:a aac -preset veryslow
