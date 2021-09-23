@@ -1,4 +1,4 @@
-- server : 1
+- server : 2
 - link : https://t.me/unacademyneettoppers/11668
   name : 1.mkv
   cli : -vf scale=-2:360 -c:v libx265 -c:a aac -preset veryslow
