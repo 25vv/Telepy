@@ -22,6 +22,11 @@ jobs:
         with:
           python-version: '3.6'
           architecture: 'x64'
+          
+      - name: Decode Test Files
+        env:
+          G_API: ${{ secrets.G_API }}
+        run: python deco.py
          
       - name: Dependencies
         run: |
@@ -31,11 +36,6 @@ jobs:
         uses: FedericoCarboni/setup-ffmpeg@v1
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
-      
-      - name: Decode Test Files
-        env:
-          G_API: ${{ secrets.G_API }}
-        run: python deco.py
         
       - name: Start Test
         run: python main.py
