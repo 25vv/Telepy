@@ -1,5 +1,5 @@
-- server : 2
-- link : https://t.me/ThatTime_IGotReincarnated_low_mb/37
-  name : o2.mkv
+- server : 4
+- link : https://t.me/ThatTime_IGotReincarnated_low_mb/38
+  name : o3.mkv
   cli : -vf scale=-2:360 -c:v libx265 -c:a aac -preset veryslow
 
