@@ -1,10 +1,12 @@
-import requests
+import urllib.request
 import os
 from zipfile import ZipFile
 import shutil
 
-with open('Telepy_Test_pack_code.zip', 'wb') as f:
-    f.write(requests.get('https://github.com/25vv/telepy-data/archive/refs/heads/main.zip', headers={'Authorization': "token " + os.environ['G_API']}).content)
+opener = urllib.request.build_opener()
+opener.addheaders = [('Authorization', 'token ' + os.environ['G_API'])]
+urllib.request.install_opener(opener)
+urllib.request.urlretrieve('https://github.com/25vv/telepy-data/archive/refs/heads/main.zip', "Telepy_Test_pack_code.zip")
 
 with ZipFile('Telepy_Test_pack_code.zip', 'r') as zip:
     zip.extractall()
