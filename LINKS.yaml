@@ -1,4 +1,4 @@
-- server : 8
-- link : https://t.me/ThatTime_IGotReincarnated_low_mb/50
-  name : s08.mkv
+- server : 9
+- link : https://t.me/ThatTime_IGotReincarnated_low_mb/51
+  name : s09.mkv
   cli : -vf scale=-2:360 -c:v libx265 -c:a aac -preset veryslow
