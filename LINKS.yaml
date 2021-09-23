@@ -1,5 +1,5 @@
-- server : 23
-- link : https://t.me/ThatTime_IGotReincarnated_low_mb/31
-  name : 23.mkv
+- server : 24
+- link : https://t.me/ThatTime_IGotReincarnated_low_mb/32
+  name : 24.mkv
   cli : -vf scale=-2:360 -c:v libx265 -c:a aac -preset veryslow
 
