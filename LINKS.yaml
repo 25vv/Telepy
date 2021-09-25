@@ -1,4 +1,4 @@
-- server : 25
-- link : https://t.me/ThatTime_IGotReincarnated_low_mb/68
-  name : d09.mkv
+- server : 1
+- link : https://t.me/keijo_anime_720p/6
+  name : 01.mkv
   cli : -vf scale=-2:360 -c:v libx265 -c:a aac -preset veryslow
