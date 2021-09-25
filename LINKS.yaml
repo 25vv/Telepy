@@ -1,4 +1,4 @@
-- server : 7
-- link : https://t.me/keijo_anime_720p/12
-  name : 07.mkv
+- server : 8
+- link : https://t.me/keijo_anime_720p/13
+  name : 08.mkv
   cli : -vf scale=-2:360 -c:v libx265 -c:a aac -preset veryslow
