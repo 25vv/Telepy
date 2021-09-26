@@ -1,4 +1,4 @@
-- server : 25
-- link : https://mega.nz/file/bk8lFSgA#VPibJhm5_ppIssAZtAh_uUdHeuIjrpPAOWGLIZNQ_5c
-  name : 33_ova.mkv
+- server : 1
+- link : https://mega.nz/file/2l0BiKiR#KtRf6i1XjS57pzxMB9NUCnF1KpBOOJkFJ2bRlnFC0XI
+  name : 46_ova.mkv
   cli : -vf scale=-2:480 -c:v libx265 -c:a aac -preset veryslow
