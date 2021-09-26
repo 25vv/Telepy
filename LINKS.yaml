@@ -1,4 +1,4 @@
-- server : 20
-- link : https://mega.nz/file/P0UzBaQR#SQxUNFyCbEcC_SE45nIJHjrWFpY76NVLHTjTG_4H9uk
-  name : 16_spe.mkv
+- server : 21
+- link : https://mega.nz/file/PhcnnQyS#RxvBnUS4gTVonCUogVA0NT4g5zFaZYwpA2RSg5wY0Qk
+  name : 17_spe.mkv
   cli : -vf scale=-2:480 -c:v libx265 -c:a aac -preset veryslow
