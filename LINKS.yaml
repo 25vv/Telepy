@@ -1,4 +1,4 @@
-- server : 16
-- link : https://t.me/keijo_anime_720p/16
-  name : 11.mkv
-  cli : -vf scale=-2:360 -c:v libx265 -c:a aac -preset veryslow
+- server : 17
+- link : https://mega.nz/file/WlVR2KyD#fgbBNX_Ez-PbRmb9l6erG2E1yfNTszpwviqCMfLIaC4
+  name : 13_ova.mkv
+  cli : -vf scale=-2:480 -c:v libx265 -c:a aac -preset veryslow
