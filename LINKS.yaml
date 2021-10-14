@@ -1,4 +1,4 @@
-- server : 2
-- link : https://drive.google.com/file/d/1Y2kLzTuuekfFK5Bpca_QKLDjIFeEwtWe/view?usp=sharing
-  name : 35_264_OVA.mkv
-  cli : -vf scale=-2:480 -c:v libx264 -c:a aac -preset veryslow
+- server : 3
+- link : https://drive.google.com/file/d/1azB_KaQ8orkav1lw3NWtYEDwVMx9aGNc/view?usp=sharing
+  name : 36_SPE.mkv
+  cli : -vf scale=-2:480 -c:v libx265 -c:a aac -preset veryslow
