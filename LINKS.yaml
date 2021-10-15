@@ -1,4 +1,4 @@
-- server : 14
-- link : https://drive.google.com/file/d/1Y2kLzTuuekfFK5Bpca_QKLDjIFeEwtWe/view?usp=sharing
-  name : 35_OVA_264_360_0.mkv
-  cli : -vf scale=-2:360 -c:v libx264 -c:a aac -preset veryslow
+- server : 15
+- link : https://drive.google.com/file/d/1VjL1FjvXbuif2OwaWulJ5u-NEycfmhYj/view?usp=sharing
+  name : 62_OVA.mkv
+  cli : -vf scale=-2:360 -c:v libx265 -c:a aac -preset veryslow
