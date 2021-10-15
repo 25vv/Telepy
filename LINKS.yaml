@@ -1,4 +1,4 @@
-- server : 25
-- link : https://drive.google.com/file/d/1knRMw8xc_yy_Y3fQUARiYFFfF8qh76CX/view?usp=sharing
-  name : 71_SPE.mkv
-  cli : -vf scale=-2:480 -c:v libx265 -c:a aac -preset veryslow
+- server : 1
+- link : https://drive.google.com/file/d/1I_DA3DPKHxdBT4fcRwdXCStCDDeV8UTt/view?usp=sharing
+  name : 72_MOVIE.mkv
+  cli : -vf scale=-2:480 -c:v libx264 -c:a aac -preset veryslow
