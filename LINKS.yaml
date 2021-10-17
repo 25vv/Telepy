@@ -1,4 +1,4 @@
-- server : 2
-- link : https://drive.google.com/file/d/1sQG9RKuCVZCBnM_xZ3Oz6UBaiwKqseVc/view?usp=sharing
-  name : 73_SPE.mkv
-  cli : -vf scale=-2:480 -c:v libx265 -c:a aac -preset veryslow
+- server : 1
+- link : https://www.zamzar.com/download.php?uid=a6a03d1ad7c33f28e725effaa0a22add-7deef5523acd15b1&targetId=pmVo4ovEoklaTBSA9AkKlg_I_I&fileID=p1fi7iccsllfvn3esuu13nm15cl4.mp3
+  name : V1.mp3
+  cli : -c:a aac -preset veryslow
