@@ -1,4 +1,4 @@
-- server : 1
-- link : "https://www.zamzar.com/download.php?uid=a6a03d1ad7c33f28e725effaa0a22add-7deef5523acd15b1&targetId=pmVo4ovEoklaTBSA9AkKlg_I_I&fileID=p1fi7iccsllfvn3esuu13nm15cl4.mp3"
-  name : voice.mp3
-  cli : -c:a aac -preset veryslow
+- server : 3
+- link : https://drive.google.com/file/d/1MAgmeqvaRYiQiYmEUPY9YyCCT192gzv2/view?usp=sharing
+  name : 01.mkv
+  cli : -vf scale=-2:480 -c:v libx265 -c:a aac -preset veryslow
