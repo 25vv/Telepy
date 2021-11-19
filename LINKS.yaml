@@ -1,4 +1,4 @@
-- server : 8
-- link : https://drive.google.com/file/d/1Li_fXUlrZeQ-YSHrjdSfCy85IaUL8H8L/view?usp=sharing
-  name : 06.mkv
+- server : 9
+- link : https://drive.google.com/file/d/13Ptr1sjHQKzax7xKs9v1QXTFhPShywo-/view?usp=sharing
+  name : 07.mkv
   cli : -vf scale=-2:480 -c:v libx265 -c:a aac -preset veryslow
