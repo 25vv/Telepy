@@ -1,4 +1,4 @@
-- server : "19"
-- link : "https://t.me/The_Pet_Girl_ofSakurasou_Dual/5"
-  name : "01 - The Pet Girl of Sakurasou [720p] [Dual] @Anime_Maniaac.mkv"
+- server : "20"
+- link : "https://t.me/The_Pet_Girl_ofSakurasou_Dual/6"
+  name : "02 - The Pet Girl of Sakurasou [720p] [Dual] @Anime_Maniaac.mkv"
   cli : "-vf scale=-2:480 -c:v libx265 -c:a aac -preset veryslow"
