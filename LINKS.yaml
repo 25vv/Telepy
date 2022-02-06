@@ -1,4 +1,4 @@
-- server : "38"
-- link : "https://t.me/CeladonCookie/30"
-  name : "22_-_The_Pet_Girl_of_Sakurasou_[720p]_[Dual]_@Anime_Maniaac.mkv"
-  cli : "LINK"
+- server : "39"
+- link : "https://t.me/ascendanceof_abookworm/26"
+  name : "[S2-06] Ascendance of a bookworm [720p] [DUB] @ANIME_OCEAN.mkv"
+  cli : "-vf scale=-2:480 -c:v libx265 -c:a aac -preset veryslow"
