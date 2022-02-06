@@ -1,4 +1,4 @@
-- server : "41"
-- link : "https://t.me/ascendanceof_abookworm/28"
-  name : "[S2-08] Ascendance of a bookworm [720p] [DUB] @ANIME_OCEAN.mkv"
+- server : "42"
+- link : "https://t.me/ascendanceof_abookworm/29"
+  name : "[S2-09] Ascendance of a bookworm [720p] [DUB] @ANIME_OCEAN.mkv"
   cli : "-vf scale=-2:480 -c:v libx265 -c:a aac -preset veryslow"
