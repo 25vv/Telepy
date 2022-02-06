@@ -1,4 +1,4 @@
-- server : "45"
-- link : "https://t.me/ascendanceof_abookworm/32"
-  name : "[S2-12] Ascendance of a bookworm [720p] [DUB] @ANIME_OCEAN.mkv"
+- server : "46"
+- link : "https://t.me/Demon_Slayer_Season2_Episode_17/279"
+  name : "@kickassanime_official [EP - 10] [480p] [SUB].mkv"
   cli : "-vf scale=-2:480 -c:v libx265 -c:a aac -preset veryslow"
