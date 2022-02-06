@@ -1,4 +1,4 @@
-- server : "10"
+- server : "11"
 - link : "https://t.me/ascendanceof_abookworm/5"
   name : "[S1-01] Ascendance of a bookworm [720p] [DUAL] @ANIME_OCEAN.mkv"
-  cli : "CUT @ 00:00:00 , 00:01:00"
+  cli : "-vf scale=-2:480 -c:v libx265 -c:a aac -preset veryslow"
