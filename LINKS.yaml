@@ -1,4 +1,4 @@
-- server : "24"
-- link : "https://t.me/ascendanceof_abookworm/18"
-  name : "[S1-14] Ascendance of a bookworm [720p] [DUAL] @ANIME_OCEAN.mkv"
+- server : "25"
+- link : "https://t.me/ascendanceof_abookworm/19"
+  name : "sticker.webp"
   cli : "-vf scale=-2:480 -c:v libx265 -c:a aac -preset veryslow"
