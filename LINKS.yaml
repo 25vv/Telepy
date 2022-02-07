@@ -1,4 +1,4 @@
-- server : "05"
-- link : "https://t.me/on_piece_dub/363"
-  name : "One Piece E319 (Dual Audio) [Otaku Union].mkv"
+- server : "06"
+- link : "https://t.me/on_piece_dub/364"
+  name : "One Piece E320 (Dual Audio) [Otaku Union].mkv"
   cli : "-vf scale=-2:480 -c:v libx265 -c:a aac -preset veryslow"
