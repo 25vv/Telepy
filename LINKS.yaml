@@ -1,4 +1,4 @@
-- server : "03"
-- link : "https://t.me/on_piece_dub/361"
-  name : "One Piece E317 (Dual Audio) [Otaku Union].mkv"
+- server : "04"
+- link : "https://t.me/on_piece_dub/362"
+  name : "One Piece E318 (Dual Audio) [Otaku Union].mkv"
   cli : "-vf scale=-2:480 -c:v libx265 -c:a aac -preset veryslow"
