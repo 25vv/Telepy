@@ -1,4 +1,4 @@
-- server : "56"
-- link : "https://t.me/Didnt_I_Say_To_make_my_abilities/12"
-  name : "S1-08 Make My Abilities Average [720p] [Dual].mkv"
+- server : "57"
+- link : "https://t.me/Didnt_I_Say_To_make_my_abilities/13"
+  name : "S1-09 Make My Abilities Average [720p] [Dual].mkv"
   cli : "-vf scale=-2:480 -c:v libx265 -c:a aac -preset veryslow"
