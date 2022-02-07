@@ -1,4 +1,4 @@
-- server : "46"
-- link : "https://t.me/Demon_Slayer_Season2_Episode_17/279"
-  name : "@kickassanime_official [EP - 10] [480p] [SUB].mkv"
-  cli : "-vf scale=-2:480 -c:v libx265 -c:a aac -preset veryslow"
+- server : "47"
+- link : "https://t.me/Didnt_I_Say_To_make_my_abilities/5"
+  name : "S1-01 Make My Abilities Average [720p] [Dual].mkv"
+  cli : "CUT @ 00:00:00 , 00:01:00"
