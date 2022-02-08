@@ -30,6 +30,7 @@ jobs:
          
       - name: Dependencies
         run: |
+          sudo apt-get install tree
           pip install --user python-dotenv requests googledrivedownloader pytube pyyaml mega.py telethon cryptg hachoir aiohttp cchardet aiodns
        
       - name: Setup FFMPEG For Video Tasks
@@ -40,5 +41,8 @@ jobs:
       - name: Start Test
         run: python main.py
         
+      - name: Record Folder Structure
+        run: tree -a
+
       - name: Upload results
         run: python end.py
