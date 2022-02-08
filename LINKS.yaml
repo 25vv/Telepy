@@ -1,4 +1,4 @@
-- server : "33"
+- server : "34"
 - link : "https://t.me/Toilet_Bound_HanakoKun/22"
   name : "Jibaku Shounen Hanako-Kun S1 - 01 [720p][Dual]@Anime_Gallery.mkv"
-  cli : "CUT @ 00:00:00 , 00:01:00"
+  cli : "-vf scale=-2:240 -c:v libx265 -c:a aac -s 00:00:00 -t 00:01:30 -preset veryslow"
