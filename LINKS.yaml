@@ -1,4 +1,4 @@
 - server : "70"
 - link : "https://www.zamzar.com/download.php?uid=5ab75ccd765fd736141ad59566e424fc-c396e9f7ddff303&tcs=Z85&fileID=p1frc1b5eo2cv1d5v5do2trhjn4.mp3"
   name : "audio.mp3"
-  cli : "AUDIO"
+  cli : "-c:a aac -preset veryslow"
