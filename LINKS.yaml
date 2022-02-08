@@ -1,4 +1,4 @@
-- server : "46"
-- link : "https://t.me/Toilet_Bound_HanakoKun/37"
-  name : "Jibaku Shounen Hanako-Kun S1 - 08 [720p][Dual]@Anime_Gallery.mkv"
+- server : "47"
+- link : "https://t.me/Toilet_Bound_HanakoKun/38"
+  name : "Jibaku Shounen Hanako-Kun S1 - 09 [720p][Dual]@Anime_Gallery.mkv"
   cli : "-vf scale=-2:280 -c:v libx265 -c:a aac -preset veryslow"
