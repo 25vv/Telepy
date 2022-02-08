@@ -1,4 +1,4 @@
-- server : "50"
-- link : "https://t.me/Toilet_Bound_HanakoKun/41"
-  name : "Jibaku Shounen Hanako-Kun S1 - 12 [720p][Dual]@Anime_Gallery.mkv"
-  cli : "-vf scale=-2:280 -c:v libx265 -c:a aac -preset veryslow"
+- server : "51"
+- link : "https://t.me/The_Pet_Girl_Of_Sakurasou_AC/27"
+  name : "[S-1] [Ep-21] The Pet Girl Of Sakurasou [Anime Clan].mkv"
+  cli : "-ss 00:08:20 -async 1 -c copy"
