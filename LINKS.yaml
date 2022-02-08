@@ -1,4 +1,4 @@
-- server : "70"
-- link : "https://www.zamzar.com/download.php?uid=5ab75ccd765fd736141ad59566e424fc-c396e9f7ddff303&tcs=Z85&fileID=p1frc1b5eo2cv1d5v5do2trhjn4.mp3"
-  name : "audio.mp3"
-  cli : "-c:a aac -preset veryslow"
+- server : "33"
+- link : "https://t.me/Toilet_Bound_HanakoKun/22"
+  name : "Jibaku Shounen Hanako-Kun S1 - 01 [720p][Dual]@Anime_Gallery.mkv"
+  cli : "CUT @ 00:00:00 , 00:01:00"
