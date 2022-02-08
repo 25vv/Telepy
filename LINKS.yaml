@@ -1,4 +1,4 @@
-- server : "27"
-- link : "https://t.me/Cookie_Archive/7"
-  name : "[Ep - 06] - [720p] [Dual] @kickassanime_official.mkv"
+- server : "28"
+- link : "https://t.me/Cookie_Archive/8"
+  name : "[Ep - 07] - [720p] [Dual] @kickassanime_official.mkv"
   cli : "-vf scale=-2:480 -c:v libx265 -c:a aac -preset veryslow"
