@@ -1,4 +1,4 @@
-- server : "20"
-- link : "https://t.me/on_piece_dub/381"
-  name : "One Piece E334 (Dual Audio) [Otaku Union].mkv"
-  cli : "-vf scale=-2:480 -c:v libx265 -c:a aac -preset veryslow"
+- server : "21"
+- link : "https://t.me/Cookie_Archive/2"
+  name : "[Ep - 01] - [720p] [Dual] @kickassanime_official.mkv"
+  cli : "CUT @ 00:00:00 , 00:01:00"
