@@ -1,4 +1,4 @@
-- server : "24"
-- link : "https://t.me/Cookie_Archive/83"
-  name : "2_8th_Son_Are_You_Kidding_Me_720p_E_Sub_@kickassanime_official.mkv"
+- server : "25"
+- link : "https://t.me/Cookie_Archive/84"
+  name : "3_8th_Son_Are_You_Kidding_Me_720p_E_Sub_@kickassanime_official.mkv"
   cli : "-vf scale=-2:360 -c:v libx265 -c:a copy -preset veryslow"
