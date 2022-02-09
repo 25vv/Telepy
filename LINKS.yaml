@@ -1,4 +1,4 @@
-- server : "54"
+- server : "55"
 - link : "https://t.me/CeladonCookie/135"
   name : "[S1-01] Ascendance of a bookworm [720p] [DUAL].mkv"
-  cli : "-vf scale=-2:240 -c:v libx265 -c:a aac -preset veryslow -t 00:01:00"
+  cli : "-ss 00:00:20 -t 00:01:00 -async 1 -c copy"
