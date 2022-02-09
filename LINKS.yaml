@@ -1,4 +1,4 @@
-- server : "22"
-- link : "https://t.me/Cookie_Archive/80"
-  name : "12_By_the_grace_of_the_god_720p_ESub_@kickassanime_official.mkv"
+- server : "23"
+- link : "https://t.me/Cookie_Archive/82"
+  name : "1_8th_Son_Are_You_Kidding_Me_720p_E_Sub_@kickassanime_official.mkv"
   cli : "-vf scale=-2:360 -c:v libx265 -c:a copy -preset veryslow"
