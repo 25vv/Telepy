@@ -1,4 +1,4 @@
-- server : "08"
-- link : "https://t.me/Cookie_Archive/39"
-  name : "[S2-12] Ascendance of a bookworm [720p] [DUB].mkv"
-  cli : "-vf scale=-2:360 -c:v libx265 -c:a copy -preset veryslow"
+- server : "09"
+- link : "https://t.me/Cookie_Archive/69"
+  name : "1_By_the_grace_of_the_god_720p_ESub_@kickassanime_official.mkv"
+  cli : "CUT @ 00:00:00 , 00:01:00"
