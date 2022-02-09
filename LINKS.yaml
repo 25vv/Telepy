@@ -1,4 +1,4 @@
-- server : "60"
-- link : "https://t.me/Cookie_Archive/15"
-  name : "[S1-02] Ascendance of a bookworm [720p] [DUAL].mkv"
+- server : "61"
+- link : "https://t.me/Cookie_Archive/16"
+  name : "[S1-03] Ascendance of a bookworm [720p] [DUAL].mkv"
   cli : "-vf scale=-2:360 -c:v libx265 -c:a copy -preset veryslow"
