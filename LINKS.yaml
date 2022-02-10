@@ -1,4 +1,4 @@
-- server : "03"
-- link : "https://t.me/Cookie_Archive/94"
-  name : "01_I'm_Going_to_Pamper_Him_to_His_Heart's_Content!.mkv"
+- server : "04"
+- link : "https://t.me/Cookie_Archive/95"
+  name : "02 - Don't be Shy, Now!.mkv"
   cli : "-vf scale=-2:360 -c:v libx265 -c:a aac -preset veryslow"
