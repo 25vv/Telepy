@@ -1,4 +1,4 @@
-- server : "52"
-- link : "https://t.me/By_The_Grace_of_the_Gods_Eng/16"
-  name : "Kami_tachi_ni_Hirowareta_Otoko_12_1080p_Dual_Audio_Eng_Sub.mkv"
+- server : "53"
+- link : "https://t.me/The_8th_Son/4"
+  name : "The 8th Son S1 - 01 [720p] [Dual] @Anime_Maniaac.mkv"
   cli : "-vf scale=-2:360 -c:v libx265 -c:a aac -preset veryslow"
