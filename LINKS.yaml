@@ -1,4 +1,4 @@
-- server : "59"
-- link : "https://t.me/The_8th_Son/10"
-  name : "The 8th Son S1 - 07 [720p] [Dual] @Anime_Maniaac.mkv"
+- server : "60"
+- link : "https://t.me/The_8th_Son/11"
+  name : "The 8th Son S1 - 08 [720p] [Dual] @Anime_Maniaac.mkv"
   cli : "-vf scale=-2:360 -c:v libx265 -c:a aac -preset veryslow"
