@@ -1,4 +1,4 @@
-- server : "14"
-- link : "https://t.me/Cookie_Archive/105"
-  name : "12 - Still.mkv"
-  cli : "-vf scale=-2:360 -c:v libx265 -c:a aac -preset veryslow"
+- server : "15"
+- link : "https://t.me/Cookie_Archive/95"
+  name : "02 - Don't be Shy, Now!.mkv"
+  cli : "CUT @ 00:00:00 , 00:01:00"
