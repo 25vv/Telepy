@@ -1,4 +1,4 @@
-- server : "64"
-- link : "https://t.me/The_8th_Son/15"
-  name : "The 8th Son S1 - 12 [720p] [Dual] @Anime_Maniaac.mkv"
+- server : "65"
+- link : "https://t.me/Cookie_Archive/106"
+  name : "1 - Shadow House [720p - Dual] @kickassanime_official.mkv"
   cli : "-vf scale=-2:360 -c:v libx265 -c:a aac -preset veryslow"
