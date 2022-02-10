@@ -1,4 +1,4 @@
-- server : "43"
-- link : "https://t.me/By_The_Grace_of_the_Gods_Eng/7"
-  name : "Kami_tachi_ni_Hirowareta_Otoko_03_1080p_Dual_Audio_Eng_Sub.mkv"
+- server : "44"
+- link : "https://t.me/By_The_Grace_of_the_Gods_Eng/8"
+  name : "Kami_tachi_ni_Hirowareta_Otoko_04_1080p_Dual_Audio_Eng_Sub.mkv"
   cli : "-vf scale=-2:360 -c:v libx265 -c:a aac -preset veryslow"
