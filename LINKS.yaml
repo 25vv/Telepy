@@ -1,4 +1,4 @@
-- server : "11"
-- link : "https://t.me/Cookie_Archive/102"
-  name : "09 - Is This Less Embarrassing For You?.mkv"
+- server : "12"
+- link : "https://t.me/Cookie_Archive/103"
+  name : "10_It’s_Nice_to_Let_Your_Inner_Child_Out_Now_and_Then,_Isn't_It.mkv"
   cli : "-vf scale=-2:360 -c:v libx265 -c:a aac -preset veryslow"
