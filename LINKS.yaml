@@ -1,4 +1,4 @@
-- server : "66"
-- link : "https://t.me/Cookie_Archive/107"
-  name : "2 - Shadow House [720p - Dual] @kickassanime_official.mkv"
+- server : "67"
+- link : "https://t.me/Cookie_Archive/108"
+  name : "3 - Shadow House [720p - Dual] @kickassanime_official.mkv"
   cli : "-vf scale=-2:360 -c:v libx265 -c:a aac -preset veryslow"
