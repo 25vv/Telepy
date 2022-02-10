@@ -1,4 +1,4 @@
-- server : "10"
-- link : "https://t.me/Cookie_Archive/101"
-  name : "08 - I'll Make You Forget All About It.mkv"
+- server : "11"
+- link : "https://t.me/Cookie_Archive/102"
+  name : "09 - Is This Less Embarrassing For You?.mkv"
   cli : "-vf scale=-2:360 -c:v libx265 -c:a aac -preset veryslow"
