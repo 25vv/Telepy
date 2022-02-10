@@ -1,4 +1,4 @@
-- server : "06"
-- link : "https://t.me/Cookie_Archive/97"
-  name : "04 - Why Must You Work on a Day Off!?.mkv"
+- server : "07"
+- link : "https://t.me/Cookie_Archive/98"
+  name : "05 - I've Got a Tail, Too, You Know?.mkv"
   cli : "-vf scale=-2:360 -c:v libx265 -c:a aac -preset veryslow"
