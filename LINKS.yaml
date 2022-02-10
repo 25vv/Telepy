@@ -1,4 +1,4 @@
-- server : "38"
-- link : "https://t.me/Cookie_Archive/106"
-  name : "1 - Shadow House [720p - Dual] @kickassanime_official.mkv"
-  cli : "CUT @ 00:00:00 , 00:01:00"
+- server : "39"
+- link : "https://t.me/By_The_Grace_of_the_Gods_Eng/5"
+  name : "Kami_tachi_ni_Hirowareta_Otoko_01_1080p_Dual_Audio_Eng_Sub.mkv"
+  cli : "-vf scale=-2:360 -c:v libx265 -c:a copy -preset veryslow"
