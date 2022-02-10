@@ -1,4 +1,4 @@
-- server : "07"
-- link : "https://t.me/Cookie_Archive/98"
-  name : "05 - I've Got a Tail, Too, You Know?.mkv"
+- server : "08"
+- link : "https://t.me/Cookie_Archive/99"
+  name : "06 - You Just Want to Fluff More.mkv"
   cli : "-vf scale=-2:360 -c:v libx265 -c:a aac -preset veryslow"
