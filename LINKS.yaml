@@ -1,4 +1,4 @@
-- server : "27"
-- link : "https://t.me/Drugstore_in_Another_World_eng/53"
-  name : "[IA] [12 - Cheat Kusushi no Slow Life] [720p] [Sub].mkv"
+- server : "28"
+- link : "https://t.me/gate_anime_series/7"
+  name : "GATE -01- 720p BD Dual Audio.mkv"
   cli : "-vf scale=-2:360 -c:v libx265 -c:a aac -preset veryslow"
