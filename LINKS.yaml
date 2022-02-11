@@ -1,4 +1,4 @@
-- server : "19"
-- link : "https://t.me/Drugstore_in_Another_World_eng/45"
-  name : "[IA] [04 - Cheat Kusushi no Slow Life] [720p] [Sub].mkv"
+- server : "20"
+- link : "https://t.me/Drugstore_in_Another_World_eng/46"
+  name : "[IA] [05 - Cheat Kusushi no Slow Life] [720p] [Sub].mkv"
   cli : "-vf scale=-2:360 -c:v libx265 -c:a aac -preset veryslow"
