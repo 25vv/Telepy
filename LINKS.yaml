@@ -1,4 +1,4 @@
-- server : "39"
-- link : "https://t.me/gate_anime_series/18"
-  name : "GATE -12- 720p BD Dual Audio.mkv"
+- server : "40"
+- link : "https://t.me/gate_anime_series/22"
+  name : "GATE -13- 720p BD Dual Audio.mkv"
   cli : "-vf scale=-2:360 -c:v libx265 -c:a aac -preset veryslow"
