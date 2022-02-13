@@ -1,4 +1,4 @@
-- server : "53"
-- link : "https://t.me/Demon_Slayer_Season2_Episode_18/327"
-  name : "@kickassanime_official [EP ⌯ 11] [1080p] [SUB].mkv"
-  cli : "-vf scale=-2:360 -c:v libx265 -c:a aac -preset ultrafast"
+- server : "54"
+- link : "https://t.me/CeladonCookie/739"
+  name : "GATE -16- 720p BD Dual Audio HEVC.mkv"
+  cli : "-ss 00:15:00 -async 1 -c copy"
