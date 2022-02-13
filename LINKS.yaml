@@ -1,4 +1,4 @@
-- server : "51"
-- link : "https://t.me/gate_anime_series/33"
-  name : "GATE -24- 720p BD Dual Audio.mkv"
-  cli : "-vf scale=-2:360 -c:v libx265 -c:a aac -preset veryslow"
+- server : "52"
+- link : "https://t.me/Demon_Slayer_Season2_Episode_18/327"
+  name : "@kickassanime_official [EP ⌯ 11] [1080p] [SUB].mkv"
+  cli : "-vf scale=-2:360 -c:v libx264 -c:a aac -preset ultrafast"
