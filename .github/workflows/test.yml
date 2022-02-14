@@ -31,7 +31,7 @@ jobs:
       - name: Dependencies
         run: |
           sudo apt-get install tree
-          pip install --user python-dotenv requests googledrivedownloader pytube pyyaml mega.py telethon cryptg hachoir aiohttp cchardet aiodns
+          pip install --user python-dotenv requests googledrivedownloader pytube pyyaml mega.py telethon cryptg hachoir aiohttp cchardet aiodns ffmpeg-python PyGithub
        
       - name: Setup FFMPEG For Video Tasks
         uses: FedericoCarboni/setup-ffmpeg@v1
