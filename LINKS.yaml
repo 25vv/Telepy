@@ -1,4 +1,7 @@
 server : "54"
-link : "https://t.me/CeladonCookie/739"
-name : "G.mkv"
-cli : "-t 00:01:00 -async 1 -c copy"
+link : "https://t.me/Demon_Slayer_Season2_Episode_18/333"
+name : "DS.mkv"
+cli : "-vf scale=-2:360 -c:v libx265 -preset veryslow"
+ultra: true
+main: true
+id: 0
