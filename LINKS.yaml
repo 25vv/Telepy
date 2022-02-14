@@ -1,7 +1,7 @@
 cli: -vf scale=-2:360 -c:v libx265 -preset veryslow
-id: 0
+id: 1
 link: https://t.me/Demon_Slayer_Season2_Episode_18/333
 main: false
-name: p6pr3ugvvxnnwd0mtu0u09ayd.mkv
-server: 31
+name: d2lc5o63nmt3yay6twiqa65jc.mkv
+server: 32
 ultra: true
