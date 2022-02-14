@@ -39,7 +39,9 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
         
       - name: Start Test
-        run: python main.py
+        run: |
+          python main.py
+          python ultra_compress.py
         
       - name: Record Folder Structure
         run: tree -a
